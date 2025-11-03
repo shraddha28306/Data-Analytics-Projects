@@ -6,11 +6,17 @@ Each project focuses on understanding data, identifying patterns, and drawing us
 *About the Projects
 
 In these projects, I go through a complete data analysis process:
+
  > Loading and understanding the dataset
+
  > Cleaning missing or incorrect values
+ 
  > Exploring data through statistics and visualizations
+
  > Analyzing relationships between different variables
+
  > Summarizing key findings and insights
+
 I’ve used real or sample datasets related to topics like hospital billing, sales, student performance, and weather trends.
 
 
@@ -37,6 +43,7 @@ Each folder contains a dataset and a Jupyter Notebook with step-by-step analysis
 
 
 *How to Run
+
 Clone the repository:
 git clone https://github.com/yourusername/data-analysis-projects.git
 
