@@ -25,7 +25,9 @@ These projects are built using Python and the following libraries:
 Here are a few projects included in this repository:
 
 Hospital_Data_Analysis: Cleaning hospital data, analyzing patient demographics, and studying billing trends.
+
 Sales Data Analysis: Studying sales performance, customer behavior, and seasonal trends.
+
 IPL_Capstone_Project: Alanysis of IPL match 2022 with visualizations.
 
 Each folder contains a dataset and a Jupyter Notebook with step-by-step analysis.
